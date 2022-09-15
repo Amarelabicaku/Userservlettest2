@@ -1,0 +1,71 @@
+.card-body{
+    display: grid !important;
+    justify-content: center !important;
+    background-color: lightskyblue;
+
+}
+
+.content{
+    background-color: #009dff;
+}
+
+.card{
+    width: 80% !important;
+    background-color: lightskyblue !important;
+}
+
+.tittle{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #479dff;
+}
+
+.form-control-label{
+    width: 500px !important;
+    text-align: center;
+}
+
+.post-button{
+    text-align: center;
+    padding-top: 2vh;
+}
+
+.btn btn-primary{
+    width: fit-content !important;
+    text-align: center;
+}
+
+.form-create-post{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: #009dff;
+}
+
+.one-card{
+    width: 100%;
+    padding-bottom: 2vh;
+    display: flex;
+    justify-content: center;
+    background-color: #009dff;
+}
+
+.wall-posts{
+    display: flex;
+    justify-content: center;
+    background-color: #009dff;
+}
+.body{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    background-color: #009dff !important;
+
+}
+.btn-primary1{
+    position: relative;
+    left:1000px;
+    background-color: #ffc107
+}
